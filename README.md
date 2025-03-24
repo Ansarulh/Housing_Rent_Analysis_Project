@@ -5,7 +5,9 @@
 
 - [Project Overview](#project-overview)
   
-- [Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis(EDA))
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
 
 ### Project Overview
