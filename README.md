@@ -1,13 +1,11 @@
 # Housing Rent Analysis in Major Indian Metro Cities Using Excel.
 
 
-## Table Contant
- - [Project Overview](Project_Overview)
-- [Data Sources](#Data-Sources)
-- [Tool](#Tool)
-- [Data Cleaning & Preparation](Data_Cleaning_&_Preparation)
-- [Data Visualization (Using Excel Charts & Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-&-Pivot-Tables))
- - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+
 
 ### Project Overview
 
@@ -24,7 +22,7 @@
 Excel- [Dawnload here](https://www.microsoft.com/)
 
 
-### 🔍 Data Cleaning & Preparation
+### 🔍 Data Cleaning and Preparation
 
 Before analysis, the dataset was cleaned and structured using the following steps:
   1. Handling Missing Values: Identified and filled or removed missing entries.
