@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](#project-overview).
   
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis).
 
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation).
 
 
 ### Project Overview
