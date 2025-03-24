@@ -5,7 +5,7 @@
 
 - [Project Overview](#project-overview)
   
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
 
 ### Project Overview
@@ -32,7 +32,7 @@ Before analysis, the dataset was cleaned and structured using the following step
   4. Converting Data Types: Ensured numeric values (rent, tax, insurance, etc.) were in proper format.
 
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 Key analyses performed:
   1. Descriptive Statistics: Calculated average rent, median rent, maximum and minimum values.
