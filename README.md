@@ -16,8 +16,8 @@
 
 ## 📌 Project Overview.
 
-  This project analyses house rent trends across various Indian cities using Excel. The analysis covers data cleaning, exploratory data analysis (EDA), and data visualization to derive insights and provide     
-  business recommendations for tenants and property owners.
+  This project analyses house rent trends across various Indian cities using Excel. The analysis covers data cleaning, exploratory data analysis (EDA),
+  and data visualization to derive insights and provide business recommendations for tenants and property owners.
 
 
 ## 📂 Dataset
