@@ -3,17 +3,17 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [📌 Project Overview](#-project-overview)
 - [📂 Dataset](#-Dataset)
-- [Tool](#tool)
+- [🔧 Tool](#-tool)
 - [🔍 Data Cleaning and Preparation](#-data-cleaning-and-preparation)
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA).
-- [Data Visualization (Using Excel Charts and Pivot Tables)](#data-visualization-using-excel-charts-and-pivot-tables)
+- [📊 Exploratory Data Analysis (EDA)](#-Exploratory-Data-Analysis-EDA).
+- [📈 Data Visualization (Using Excel Charts and Pivot Tables)](#-data-visualization-using-excel-charts-and-pivot-tables)
 
-- [Key Insights and Business Recommendations](#Key-Insights-and-Business-Recommendations)
+- [🔑 Key Insights and Business Recommendations](#-Key-Insights-and-Business-Recommendations)
 - [Conclusion](#Conclusion)
 
-### Project Overview
+### 📌 Project Overview
 
   This project analyses house rent trends across various Indian cities using Excel. The analysis covers data cleaning, exploratory data analysis (EDA), and data visualization to derive insights and provide     
   business recommendations for tenants and property owners.
@@ -39,7 +39,7 @@
 - <a href="https://github.com/Ansarulh/Housing_Rent_Analysis_Project/blob/main/Metro_House_Rent%20Dataset.xlsx" >Dawnload dataset
 
 
-### Tool
+### 🔧 Tool
 
 Excel- [Dawnload here](https://www.microsoft.com/)
 
@@ -53,7 +53,7 @@ Before analysis, the dataset was cleaned and structured using the following step
   4. Converting Data Types: Ensured numeric values (rent, tax, insurance, etc.) were in proper format.
 
 
-### Exploratory Data Analysis (EDA)
+### 📊 Exploratory Data Analysis (EDA)
 
 Key analyses performed:
   1. Descriptive Statistics: Calculated average rent, median rent, maximum and minimum values.
@@ -61,7 +61,7 @@ Key analyses performed:
   3. Room & Rent Relation: Examined how the number of rooms impacts rent.
   4. Effect of Furniture Status: Analyzed the influence of furnishing on rent pricing.
 
-### Data Visualization (Using Excel Charts and Pivot Tables)
+### 📈 Data Visualization (Using Excel Charts and Pivot Tables)
 
 Visualizations used to derive meaningful insights:
   1. Rent Distribution Across Cities: Bar charts showing differences in rental costs.
@@ -72,7 +72,7 @@ Visualizations used to derive meaningful insights:
 
 
 
-### Key Insights and Business Recommendations
+### 🔑 Key Insights and Business Recommendations
 ####	Housing Rent & Location Correlation:
    1. Rent prices are directly proportional to location and demand.
    2. IT hubs and job opportunities significantly influence rental costs.
