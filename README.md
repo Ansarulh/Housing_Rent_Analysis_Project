@@ -3,11 +3,13 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview).
-  
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tool](#tool)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis).
-
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation).
+- [Data Visualization (Using Excel Charts & Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-and-Pivot-Tables))
+- [Key Insights & Business Recommendations](#Key-Insights-and-Business-Recommendations)
 
 
 ### Project Overview
