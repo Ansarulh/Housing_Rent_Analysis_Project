@@ -6,7 +6,7 @@
 - [Project Overview](#project-overview)
 - [📂 Dataset](#-Dataset)
 - [Tool](#tool)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [🔍 Data Cleaning and Preparation](#-data-cleaning-and-preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA).
 - [Data Visualization (Using Excel Charts and Pivot Tables)](#data-visualization-using-excel-charts-and-pivot-tables)
 
@@ -24,10 +24,15 @@
   The dataset contains information on:
   
 •	City.
+
 •	Area.
+
 •	Rent Amount.
+
 •	Number of Rooms.
+
 •	Furnishing Status.
+
 •	Other relevant features.
 
 
@@ -39,7 +44,7 @@
 Excel- [Dawnload here](https://www.microsoft.com/)
 
 
-### Data Cleaning and Preparation
+### 🔍 Data Cleaning and Preparation
 
 Before analysis, the dataset was cleaned and structured using the following steps:
   1. Handling Missing Values: Identified and filled or removed missing entries.
