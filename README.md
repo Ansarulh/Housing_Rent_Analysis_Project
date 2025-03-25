@@ -8,7 +8,7 @@
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis EDA](#Exploratory-Data-Analysis-EDA).
-- [Data Visualization (Using Excel Charts & Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-and-Pivot-Tables))
+- [Data Visualization (Using Excel Charts and Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-and-Pivot-Tables)-)
 - [Key Insights and Business Recommendations](#Key-Insights-and-Business-Recommendations)
 
 
@@ -44,7 +44,7 @@ Key analyses performed:
   3. Room & Rent Relation: Examined how the number of rooms impacts rent.
   4. Effect of Furniture Status: Analyzed the influence of furnishing on rent pricing.
 
-### 📈 Data Visualization (Using Excel Charts & Pivot Tables)
+### Data Visualization (Using Excel Charts and Pivot Tables)
 
 Visualizations used to derive meaningful insights:
   1. Rent Distribution Across Cities: Bar charts showing differences in rental costs.
