@@ -13,7 +13,8 @@
 - [🔑 Key Insights and Business Recommendations](#-Key-Insights-and-Business-Recommendations)
 - [💡 Conclusion](#-Conclusion)
 
-## 📌 Project Overview
+
+## 📌 Project Overview.
 
   This project analyses house rent trends across various Indian cities using Excel. The analysis covers data cleaning, exploratory data analysis (EDA), and data visualization to derive insights and provide     
   business recommendations for tenants and property owners.
@@ -41,7 +42,8 @@
 
 ## 🔧 Tool
 
-Excel- [Dawnload here](https://www.microsoft.com/)
+Excel
+- [Dawnload here](https://www.microsoft.com/)
 
 
 ## 🔍 Data Cleaning and Preparation
@@ -60,6 +62,7 @@ Key analyses performed:
   2. City-Wise Insights: Compared rent trends across major cities.
   3. Room & Rent Relation: Examined how the number of rooms impacts rent.
   4. Effect of Furniture Status: Analyzed the influence of furnishing on rent pricing.
+
 
 ## 📈 Data Visualization (Using Excel Charts and Pivot Tables)
 
@@ -88,9 +91,8 @@ Visualizations used to derive meaningful insights:
 
 ## 💡 Conclusion
 
-
-This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. 
-The insights can help tenants make informed decisions and assist property owners in setting competitive prices.
+  This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. 
+  The insights can help tenants make informed decisions and assist property owners in setting competitive prices.
 
 
 
