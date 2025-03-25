@@ -9,6 +9,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA).
 - [Data Visualization (Using Excel Charts and Pivot Tables)](#data-visualization-using-excel-charts-and-pivot-tables)
+- [Conclusion](#Conclusion)
 
 
 - [Key Insights and Business Recommendations](#Key-Insights-and-Business-Recommendations)
@@ -70,7 +71,7 @@ Visualizations used to derive meaningful insights:
 
 ### Conclusion
 
-    This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. The insights can help       tenants make informed decisions and assist property owners in setting competitive prices.
+This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. The insights can help       tenants make informed decisions and assist property owners in setting competitive prices.
 
 
 
