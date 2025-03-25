@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis EDA](#Exploratory-Data-Analysis-EDA).
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA).
 - [Data Visualization (Using Excel Charts and Pivot Tables)](#data-visualization-using-excel-charts-and-pivot-tables)
 
 
@@ -38,7 +38,7 @@ Before analysis, the dataset was cleaned and structured using the following step
   4. Converting Data Types: Ensured numeric values (rent, tax, insurance, etc.) were in proper format.
 
 
-### Exploratory Data Analysis EDA
+### Exploratory Data Analysis (EDA)
 
 Key analyses performed:
   1. Descriptive Statistics: Calculated average rent, median rent, maximum and minimum values.
