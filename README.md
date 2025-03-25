@@ -9,7 +9,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis(EDA)).
 - [Data Visualization (Using Excel Charts & Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-and-Pivot-Tables))
-- [Key Insights & Business Recommendations](#Key-Insights-and-Business-Recommendations)
+- [Key Insights and Business Recommendations](#Key-Insights-and-Business-Recommendations)
 
 
 ### Project Overview
@@ -52,7 +52,7 @@ Visualizations used to derive meaningful insights:
   3. Pivot Tables for Segmentation: Grouping by city, area, and other attributes to identify patterns.
 
 
-### Key Insights & Business Recommendations
+### Key Insights and Business Recommendations
 ####	Housing Rent & Location Correlation:
    1. Rent prices are directly proportional to location and demand.
    2. IT hubs and job opportunities significantly influence rental costs.
