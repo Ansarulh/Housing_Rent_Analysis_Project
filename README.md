@@ -6,7 +6,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tool](#tool)
-- [🔍 Data Cleaning and Preparation](#🔍-data-cleaning-and-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis).
 - [Data Visualization (Using Excel Charts & Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-and-Pivot-Tables))
 - [Key Insights & Business Recommendations](#Key-Insights-and-Business-Recommendations)
@@ -27,7 +27,7 @@
 Excel- [Dawnload here](https://www.microsoft.com/)
 
 
-### 🔍 Data Cleaning and Preparation
+### Data Cleaning and Preparation
 
 Before analysis, the dataset was cleaned and structured using the following steps:
   1. Handling Missing Values: Identified and filled or removed missing entries.
