@@ -1,4 +1,4 @@
-# Housing Rent Analysis in Major Indian Metro Cities Using Excel.
+![image](https://github.com/user-attachments/assets/a0f6b2c5-1947-4bf2-9c2a-dd6aba9669d8)# Housing Rent Analysis in Major Indian Metro Cities Using Excel.
 
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 - [📈 Data Visualization (Using Excel Charts and Pivot Tables)](#-data-visualization-using-excel-charts-and-pivot-tables)
 
 - [🔑 Key Insights and Business Recommendations](#-Key-Insights-and-Business-Recommendations)
-- [Conclusion](#Conclusion)
+- [💡 Conclusion](#-Conclusion)
 
 ### 📌 Project Overview
 
@@ -86,7 +86,8 @@ Visualizations used to derive meaningful insights:
   3. Furnishing status plays a significant role in rent variation; fully-furnished homes command higher rents.
 
 
-### Conclusion
+### 💡 Conclusion
+
 
 This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. 
 The insights can help tenants make informed decisions and assist property owners in setting competitive prices.
