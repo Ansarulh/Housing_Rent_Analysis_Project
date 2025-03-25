@@ -8,7 +8,7 @@
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis EDA](#Exploratory-Data-Analysis-EDA).
-- [Data Visualization (Using Excel Charts and Pivot Tables)](#Data-Visualization-(Using-Excel-Charts-and-Pivot-Tables)-)
+- [Data Visualization (Using Excel Charts and Pivot Tables)](#Data-Visualization-(-Using-Excel-Charts-and-Pivot-Tables-)-)
 - [Key Insights and Business Recommendations](#Key-Insights-and-Business-Recommendations)
 
 
