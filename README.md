@@ -68,4 +68,9 @@ Visualizations used to derive meaningful insights:
   3. Furnishing status plays a significant role in rent variation; fully-furnished homes command higher rents.
 
 
+### Conclusion
+
+    This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. The insights can help       tenants make informed decisions and assist property owners in setting competitive prices.
+
+
 
