@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0f6b2c5-1947-4bf2-9c2a-dd6aba9669d8)# Housing Rent Analysis in Major Indian Metro Cities Using Excel.
+# Housing Rent Analysis in Major Indian Metro Cities Using Excel.
 
 
 ## Table of Contents
@@ -13,13 +13,13 @@
 - [🔑 Key Insights and Business Recommendations](#-Key-Insights-and-Business-Recommendations)
 - [💡 Conclusion](#-Conclusion)
 
-### 📌 Project Overview
+## 📌 Project Overview
 
   This project analyses house rent trends across various Indian cities using Excel. The analysis covers data cleaning, exploratory data analysis (EDA), and data visualization to derive insights and provide     
   business recommendations for tenants and property owners.
 
 
-### 📂 Dataset
+## 📂 Dataset
 
   The dataset contains information on:
   
@@ -39,12 +39,12 @@
 - <a href="https://github.com/Ansarulh/Housing_Rent_Analysis_Project/blob/main/Metro_House_Rent%20Dataset.xlsx" >Dawnload dataset
 
 
-### 🔧 Tool
+## 🔧 Tool
 
 Excel- [Dawnload here](https://www.microsoft.com/)
 
 
-### 🔍 Data Cleaning and Preparation
+## 🔍 Data Cleaning and Preparation
 
 Before analysis, the dataset was cleaned and structured using the following steps:
   1. Handling Missing Values: Identified and filled or removed missing entries.
@@ -53,7 +53,7 @@ Before analysis, the dataset was cleaned and structured using the following step
   4. Converting Data Types: Ensured numeric values (rent, tax, insurance, etc.) were in proper format.
 
 
-### 📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 Key analyses performed:
   1. Descriptive Statistics: Calculated average rent, median rent, maximum and minimum values.
@@ -61,7 +61,7 @@ Key analyses performed:
   3. Room & Rent Relation: Examined how the number of rooms impacts rent.
   4. Effect of Furniture Status: Analyzed the influence of furnishing on rent pricing.
 
-### 📈 Data Visualization (Using Excel Charts and Pivot Tables)
+## 📈 Data Visualization (Using Excel Charts and Pivot Tables)
 
 Visualizations used to derive meaningful insights:
   1. Rent Distribution Across Cities: Bar charts showing differences in rental costs.
@@ -72,21 +72,21 @@ Visualizations used to derive meaningful insights:
 
 
 
-### 🔑 Key Insights and Business Recommendations
-####	Housing Rent & Location Correlation:
+## 🔑 Key Insights and Business Recommendations
+###	Housing Rent & Location Correlation:
    1. Rent prices are directly proportional to location and demand.
    2. IT hubs and job opportunities significantly influence rental costs.
-#### Expensive & Affordable Cities:
+### Expensive & Affordable Cities:
   1. Bangalore has the highest rental prices, approximately 60% more expensive than other metro cities.
   2. Reason: High demand due to the presence of major IT companies, attracting professionals and job seekers.
   3. Mumbai surprisingly has the lowest rent among metro cities, possibly due to varied housing options and a balance between demand and supply.
-  #### Recommendations for Tenants & Property Owners:
+  ### Recommendations for Tenants & Property Owners:
   1. Tenants should consider emerging areas near IT hubs for affordability.
   2. Property owners in Bangalore can benefit from premium pricing due to demand.
   3. Furnishing status plays a significant role in rent variation; fully-furnished homes command higher rents.
 
 
-### 💡 Conclusion
+## 💡 Conclusion
 
 
 This project provides a comprehensive analysis of rental trends in Indian cities, highlighting key factors influencing rent variations. 
