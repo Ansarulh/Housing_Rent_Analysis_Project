@@ -51,7 +51,10 @@ Key analyses performed:
 Visualizations used to derive meaningful insights:
   1. Rent Distribution Across Cities: Bar charts showing differences in rental costs.
   2. Correlation Matrix: Examining relationships between rent and factors like rooms and furnishing.
-  3. Pivot Tables for Segmentation: Grouping by city, area, and other attributes to identify patterns.
+  3. Pivot Tables for Segmentation: Grouping by city, area, and other attributes to identify 
+  patterns.
+  ![Dashboard](https://github.com/user-attachments/assets/644605a4-93ee-4ae3-9b89-1fc76ee66c12)
+
 
 
 ### Key Insights and Business Recommendations
