@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [📂 Dataset](#Dataset)
+- [📂 Dataset](#-Dataset)
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA).
