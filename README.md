@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [📂 Dataset](#📂-Dataset)
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA).
@@ -19,7 +19,7 @@
   business recommendations for tenants and property owners.
 
 
-### Dataset Used
+### 📂 Dataset
 
 - <a href="https://github.com/Ansarulh/Housing_Rent_Analysis_Project/blob/main/Metro_House_Rent%20Dataset.xlsx" >Dawnload dataset
 
